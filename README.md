@@ -1,4 +1,4 @@
-# Numpy
+# Numpy Tutorial
 
 NumPy is a Python library that it used for working with arrays.
 
